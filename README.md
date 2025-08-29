@@ -57,4 +57,4 @@ Pics to Words is an interactive educational game designed to help users learn fo
   - `data.js` - Game data (words and images)
   - `settings.js` - Game configuration
   - `style.css` - Main stylesheet
-- `public/` - Public assets and HTML template
+  - `public/` - Public assets
